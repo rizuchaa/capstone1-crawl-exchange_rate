@@ -1,0 +1,29 @@
+body{
+    width:100% !important;
+    background-color: grey;
+    color: white;
+}
+
+.card{
+    background-color: darksalmon;
+    width:485px;
+    border: darksalmon;
+    margin: 3% 0% 20% 0%
+}
+
+.col-md-12, .col-lg-12, .col-sm-12{
+    background-color : white;
+}
+
+.col-md-12, .col-lg-12, .col-sm-12 > .tab{
+    padding:1%
+}
+
+button{
+    border: grey  ;
+    padding: 1.5%;
+    margin-right:2%;
+    border-style: solid;
+    border-width: 1px;
+    border-radius:10px;
+}
